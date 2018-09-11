@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1514144174 source:d:\cursocpp11indra\1_app_stl_cblocks\main.cpp
+	<iostream>
+
+1536666283 source:d:\cursocpp11indra\1_app_stl_cblocks\src\2_contenedores_secuenciales.cpp
+	<iostream>
+	<array>
+	<vector>
+	<deque>
+	<list>
+
+1536669972 source:d:\cursocpp11indra\1_app_stl_cblocks\src\3_contenedores_asociativos.cpp
+	<iostream>
+	<set>
+	<map>
+	<sstream>
+
+1536693786 source:d:\cursocpp11indra\1_app_stl_cblocks\src\persona.cpp
+	"../include/Persona.h"
+
+1536673877 d:\cursocpp11indra\1_app_stl_cblocks\include\persona.h
+	<iostream>
+	<string>
+
+1536693801 source:d:\cursocpp11indra\1_app_stl_cblocks\src\4_practica_persona.cpp
+	"../include/Persona.h"
+	<set>
+
+1536693820 source:d:\trabajo\formacion\_curso_c++11\curso_cpp11_indra.git\1_app_stl_cblocks\main.cpp
+	<iostream>
+
+1536666283 source:d:\trabajo\formacion\_curso_c++11\curso_cpp11_indra.git\1_app_stl_cblocks\src\2_contenedores_secuenciales.cpp
+	<iostream>
+	<array>
+	<vector>
+	<deque>
+	<list>
+
+1536669972 source:d:\trabajo\formacion\_curso_c++11\curso_cpp11_indra.git\1_app_stl_cblocks\src\3_contenedores_asociativos.cpp
+	<iostream>
+	<set>
+	<map>
+	<sstream>
+
+1536693801 source:d:\trabajo\formacion\_curso_c++11\curso_cpp11_indra.git\1_app_stl_cblocks\src\4_practica_persona.cpp
+	"../include/Persona.h"
+	<set>
+
+1536673877 d:\trabajo\formacion\_curso_c++11\curso_cpp11_indra.git\1_app_stl_cblocks\include\persona.h
+	<iostream>
+	<string>
+
+1536693786 source:d:\trabajo\formacion\_curso_c++11\curso_cpp11_indra.git\1_app_stl_cblocks\src\persona.cpp
+	"../include/Persona.h"
+
