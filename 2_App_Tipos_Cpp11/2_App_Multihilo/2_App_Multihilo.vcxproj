@@ -20,9 +20,9 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{CADD6060-67FF-4CDE-90AD-0113F58D1A4D}</ProjectGuid>
+    <ProjectGuid>{14703D41-2436-4A62-9D73-CF2C77E1C3B6}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>My1AppTiposYConversion</RootNamespace>
+    <RootNamespace>My2AppMultihilo</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -147,24 +147,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClInclude Include="Persona.h" />
     <ClInclude Include="stdafx.h" />
     <ClInclude Include="targetver.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="10_for_each.cpp" />
-    <ClCompile Include="11_expresiones_regulares.cpp" />
-    <ClCompile Include="12_lambdas.cpp" />
-    <ClCompile Include="1_App_Tipos_Y_Conversion.cpp" />
-    <ClCompile Include="2_Basicos.cpp" />
-    <ClCompile Include="3_Casting_Tipico.cpp" />
-    <ClCompile Include="4_Casting_Cpp11.cpp" />
-    <ClCompile Include="5_enum_typedef.cpp" />
-    <ClCompile Include="6_class_enum.cpp" />
-    <ClCompile Include="7_auto.cpp" />
-    <ClCompile Include="8_practica_ABC.cpp" />
-    <ClCompile Include="9_raw_strings.cpp" />
-    <ClCompile Include="Persona.cpp" />
+    <ClCompile Include="2_App_Multihilo.cpp" />
+    <ClCompile Include="2_MultiThreading.cpp" />
+    <ClCompile Include="3_Practica_Multithreading.cpp" />
     <ClCompile Include="stdafx.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Create</PrecompiledHeader>
