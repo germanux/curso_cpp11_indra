@@ -153,6 +153,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="10_for_each.cpp" />
+    <ClCompile Include="11_expresiones_regulares.cpp" />
     <ClCompile Include="1_App_Tipos_Y_Conversion.cpp" />
     <ClCompile Include="2_Basicos.cpp" />
     <ClCompile Include="3_Casting_Tipico.cpp" />
